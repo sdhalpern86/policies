@@ -19,7 +19,7 @@ All policies are licensed under [CC BY-SA 4.0](http://creativecommons.org/licens
 ### Policy Index
 
 * [Introduction](source/sections/introduction.md)
-* [HIPAA Inheritance for PaaS Customers](source/sections/hipaa_inheritance_for_paas_customers.md)
+* [HIPAA Inheritance for SaaS Customers](source/sections/hipaa_inheritance_for_paas_customers.md)
 * [HIPAA Inheritance for Platform Add-on Customers](source/sections/hipaa_inheritance_for_platform_addon_customers.md)
 * [Policy Management Policy](source/sections/policy_management_policy.md)
 * [Risk Management Policy](source/sections/risk_management_policy.md)
@@ -41,5 +41,5 @@ All policies are licensed under [CC BY-SA 4.0](http://creativecommons.org/licens
 * [Approved Tools Policy](source/sections/approved_tools_policy.md)
 * [3rd Party Policy](source/sections/3rd_party_policy.md)
 * [Key Definitions](source/sections/key_definitions.md)
-* [Catalyze HIPAA Business Associate Agreement (“BAA”)](source/sections/catalyze_hipaa_business_associate_agreement.md)
-* [HIPAA Mappings to Catalyze Controls](source/sections/hipaa_mapping_to_catalyze_controls.md)
+* [1healthy.world HIPAA Business Associate Agreement (“BAA”)](source/sections/catalyze_hipaa_business_associate_agreement.md)
+* [HIPAA Mappings to 1healthy.world Controls](source/sections/hipaa_mapping_to_catalyze_controls.md)
