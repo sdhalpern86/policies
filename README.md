@@ -1,6 +1,6 @@
 # 1healthy.world, Inc. HIPAA Compliance Policies
 
-HIPAA compliance is complicated, but it doesn't have to be. We chose to rely on Catalyze's open sourced HIPAA documentation for compliance requirements at 1healthy.world. Doing so helps relieve the burden with our HIPAA-compliant cloud-hosted software and solutions for care teams and their patients.
+HIPAA compliance is complicated, but it doesn't have to be. We chose to rely on Catalyze's open sourced HIPAA documentation for compliance requirements at 1healthy.world. Doing so helps us focus on building and improving our cloud-hosted software solution for care teams and their patients.
 
 Our policies have been written with our modern, cloud-based technology application in mind. Importantly, the original policies these were built from have been through three external audits—two HIPAA audits and one HITRUST audit.
 
