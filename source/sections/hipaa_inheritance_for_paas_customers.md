@@ -1,4 +1,4 @@
-# HIPAA Inheritance for PaaS Customers
+# HIPAA Inheritance for SaaS Customers
 
 | **Administrative Controls** HIPAA Rule | 1healthy.world Control | Inherited
 --- | --- | ---
