@@ -23,7 +23,7 @@ The Privacy Officer is responsible for assisting with compliance and security tr
 3. Manage relationships with customers and partners as those relationships affect security and compliance of ePHI.
 4. Assist Security Officer as needed.
 
-The current Catalyze Privacy Officer is Seth Halpern ([seth@1healthy.world](mailto:seth@1healthy.world)).
+The current 1healthy.world Privacy Officer is Seth Halpern ([seth@1healthy.world](mailto:seth@1healthy.world)).
 
 ## Workforce Training Responsibilities
 
