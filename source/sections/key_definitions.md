@@ -1,8 +1,8 @@
 # Key Definitions
 
-* *Application*: An application hosted by Catalyze, either maintained and created by Catalyze, or maintained and created by a Customer or Partner.
+* *Application*: An application hosted by 1healthy.world, either maintained and created by 1healthy.world, or maintained and created by a Customer or Partner.
 
-* *Application Level*: Controls and security associated with an Application. In the case of PaaS Customers, Catalyze does not have access to and cannot assure compliance with security standards and policies at the Application Level.
+* *Application Level*: Controls and security associated with an Application. In the case of PaaS Customers, 1healthy.world does not have access to and cannot assure compliance with security standards and policies at the Application Level.
 
 * *Audit*: Internal process of reviewing information system access and activity (e.g., log-ins, file accesses, and security incidents). An audit may be done as a periodic event, as a result of a patient complaint, or suspicion of employee wrongdoing.
 
@@ -32,17 +32,17 @@
 
 * *Disaster Recovery*: The ability to recover a system and data after being made unavailable.
 
-* *Disaster Recovery Service*: A disaster recovery service for disaster recovery in the case of system unavailability. This includes both the technical and the non-technical (process) required to effectively stand up an application after an outage. Offered with all Catalyze Add-ons and as an option for PaaS Customers.
+* *Disaster Recovery Service*: A disaster recovery service for disaster recovery in the case of system unavailability. This includes both the technical and the non-technical (process) required to effectively stand up an application after an outage. Offered with all 1healthy.world Add-ons and as an option for PaaS Customers.
 
 * *Disclosure*: Disclosure means the release, transfer, provision of, access to, or divulging in any other manner of information outside the entity holding the information.
 
-* *Customers*: Contractually bound users of Catalyze Platform.
+* *Customers*: Contractually bound users of 1healthy.world Platform.
 
 * *Electronic Protected Health Information (ePHI)*: Any individually identifiable health information protected by HIPAA that is transmitted by, processed in some way, or stored in electronic media. 
 
 * *Environment*: The overall technical environment, including all servers, network devices, and applications.
 
-* *Event*: An event is defined as an occurrence that does not constitute a serious adverse effect on Catalyze, its operations, or its Customers, though it may be less than optimal. Examples of events include, but are not limited to:
+* *Event*: An event is defined as an occurrence that does not constitute a serious adverse effect on 1healthy.world, its operations, or its Customers, though it may be less than optimal. Examples of events include, but are not limited to:
 	* A hard drive malfunction that requires replacement;
 	*  Systems become unavailable due to power outage that is non-hostile in nature, with redundancy to assure ongoing availability of data;
 	* Accidental lockout of an account due to incorrectly entering a password multiple times.
@@ -77,9 +77,9 @@
 
 * *Organization*: For the purposes of this policy, the term “organization” shall mean Catalyze.
 
-* *Partner*: Contractual bound 3rd party vendor with integration with the Catalyze Platform. May offer Add-on services.
+* *Partner*: Contractual bound 3rd party vendor with integration with the 1healthy.world Platform. May offer Add-on services.
 
-* *Platform*: The overall technical environment of Catalyze.
+* *Platform*: The overall technical environment of 1healthy.world.
 
 * *Protected Health Information (PHI)*: Individually identifiable health information that is created by or received by the organization, including demographic information, that identifies an individual, or provides a reasonable basis to believe the information can be used to identify an individual, and relates to:
 	* Past, present or future physical or mental health or condition of an individual.
@@ -153,7 +153,7 @@
 	5. Paper, film, or other hard copy media have been shredded or destroyed such that the PHI cannot be read or otherwise cannot be reconstructed. Redaction is specifically excluded as a means of data destruction.
 	6. Electronic media have been cleared, purged, or destroyed consistent with NIST Special Publications 800-88, Guidelines for Media Sanitization, such that the PHI cannot be retrieved.
 
-* *Vendors*: Persons from other organizations marketing or selling products or services, or providing services to Catalyze. 
+* *Vendors*: Persons from other organizations marketing or selling products or services, or providing services to 1healthy.world. 
 
 * *Vulnerability*: A weakness or flaw in an information system that can be accidentally triggered or intentionally exploited by a threat and lead to a compromise in the integrity of that system, i.e., resulting in a security breach or violation of policy.
 
