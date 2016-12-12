@@ -119,7 +119,7 @@ The tasks outlines below are not sequential and some can be run in parallel.
 
 ## 3. Reconstitution Phase
 
-This section discusses activities necessary for restoring 1healthy.world operations at the original or new site. The goal is to restore full operations within 24 hours of a disaster or outage. When the hosted data center at the original or new site has been restored, Catalyze operations at the alternate site may be transitioned back. The goal is to provide a seamless transition of operations from the alternate site to the computer center.
+This section discusses activities necessary for restoring 1healthy.world operations at the original or new site. The goal is to restore full operations within 24 hours of a disaster or outage. When the hosted data center at the original or new site has been restored, 1healthy.world operations at the alternate site may be transitioned back. The goal is to provide a seamless transition of operations from the alternate site to the computer center.
 
 1. Original or New Site Restoration
 	* Begin replication of new environment using automated and tested scripts. - Dev Ops
