@@ -1,6 +1,6 @@
 # Incident Response Policy
 
-Catalyze implements an information security incident response process to consistently detect, respond, and report incidents, minimize loss and destruction, mitigate the weaknesses that were exploited, and restore information system functionality and business continuity as soon as possible.
+1healthy.world implements an information security incident response process to consistently detect, respond, and report incidents, minimize loss and destruction, mitigate the weaknesses that were exploited, and restore information system functionality and business continuity as soon as possible.
 
 The incident response process addresses:
 
@@ -24,18 +24,18 @@ The incident response process addresses:
 
 ## Incident Management Policies
 
-The Catalyze incident response process follows the process recommended by SANS, an industry leader in security (www.sans.org). Process flows are a direct representation of the SANS process. Review Appendix 1 for a flowchart identifying each phase.
+The 1healthy.world incident response process follows the process recommended by SANS, an industry leader in security (www.sans.org). Process flows are a direct representation of the SANS process. Review Appendix 1 for a flowchart identifying each phase.
 
 ### Identification Phase
 
-1. Immediately upon observation Catalyze members report suspected and known Precursors, Events, Indications, and Incidents in one of the following ways:
-	1. Direct report to management, the Security Officer, Privacy Officer, or other;
-	2. Email;
-	3. Phone call;
-	4. Online incident response form located [here](https://docs.google.com/a/catalyze.io/forms/d/1Hn4di9Jdw5JT8vISMh6tVUnh94VpeHucell7Ca4fKTo/viewform);
+1. Immediately upon observation 1healthy.world members report suspected and known Precursors, Events, Indications, and Incidents in one of the following ways:
+	1. Direct report to management, the Security Officer, Privacy Officer, or other.
+	2. Email.
+	3. Phone call.
+	4. Online incident response form.
 	5. Secure Chat.
 	6. Anonymously through workforce members desired channels.
-	7. The individual receiving the report facilitates completion of an [Incident Identification form](./incident.form.pdf) and notifies the Security Officer (if not already done).
+	7. The individual receiving the report facilitates completion of an incident identification form and notifies the Security Officer (if not already done).
 	8. The Security Officer determines if the issue is a Precursor, Event, Indication, or Incident.
 	9. If the issue is an event, indication, or precursor the Security Officer forwards it to the appropriate resource for resolution.
 		1. Non-Technical Event (minor infringement): the Security Officer completes a SIR Form (see Appendix 2) and investigates the incident.
@@ -47,12 +47,12 @@ The Catalyze incident response process follows the process recommended by SANS, 
 		4. The Containment, Eradication, and Recovery Phases are highly technical. It is important to have them completed by a highly qualified technical security resource with oversight by the SIRT team.
 		5. Each individual on the SIRT and the technical security resource document all measures taken during each phase, including the start and end times of all efforts.
 		6. The lead member of the SIRT team facilitates initiation of a Security Incident Report (SIR) Form (See Appendix 2 for sample format) or an Incident Survey Form (See Appendix 4).  The intent of the SIR form is to provide a summary of all events, efforts, and conclusions of each Phase of this policy and procedures.
-	11. The Security Officer, Privacy Officer, or Catalyze representative appointed notifies any affected Customers and Partners. If no Customers and Partners are affected, notification is at the discretion of the Security and Privacy Officer.
-	12. In the case of a threat identified, the Security Officer is to form a team to investigate and involve necessary resources, both internal to Catalyze and potentially external.
+	11. The Security Officer, Privacy Officer, or 1healthy.world representative appointed notifies any affected Customers and Partners. If no Customers and Partners are affected, notification is at the discretion of the Security and Privacy Officer.
+	12. In the case of a threat identified, the Security Officer is to form a team to investigate and involve necessary resources, both internal to 1healthy.world and potentially external.
 
 ### Containment Phase (Technical)
 
-In this Phase, Catalyze’s IT department attempts to contain the security incident. It is extremely important to take detailed notes during the security incident response process. This provides that the evidence gathered during the security incident can be used successfully during prosecution, if appropriate.
+In this Phase, 1healthy.world’s IT department attempts to contain the security incident. It is extremely important to take detailed notes during the security incident response process. This provides that the evidence gathered during the security incident can be used successfully during prosecution, if appropriate.
 
 1. The SIRT reviews any information that has been collected by the Security Officer or any other individual investigating the security incident.
 2. The SIRT secures the network perimeter.
